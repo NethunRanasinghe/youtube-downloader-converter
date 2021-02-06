@@ -1,8 +1,9 @@
-# youtube-downloader-converter
-A simple Python script that is able to download YouTube videos or playlists and convert them into MP3.
+# youtube-downloader-(GUI)
 
-Copyright (c) NeuralNine 2020 - YouTube Downloader v0.2 Alpha
+I made the application a GUI.
+I'm still a beginner so there maybe some easy ways to do things I have done.
+So your oppinion is highly appreciated.
 
-WARNING: DOWNLOADING COPYRIGHTED MATERIAL IS HIGHLY ILLEGAL!
-I DO NOT TAKE ANY RESPONSIBILITY FOR YOUR USAGE OF THIS TOOL!
-THIS IS FOR EDUCATIONAL PURPOSES ONLY!
+##There will be more features added in the future.
+Currently there are only few options so if you like feel free to try.
+It's better compilled so I highly suggest you to make it an .exe with pyinstaller or any program you like.
